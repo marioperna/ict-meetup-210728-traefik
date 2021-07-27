@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="custom-reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="custom-reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="custom-reveal.js/dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="custom-reveal.js/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section 
+					data-markdown="./data/slide_1.md" 
+					data-separator="^\n\n\n" 
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+				 	data-charset="iso-8859-15"
+				></section>
+				<section 
+					data-markdown="./data/slide_2.md" 
+					data-separator="^\n\n\n" 
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+				 	data-charset="iso-8859-15"
+				></section>
+				<section 
+					data-markdown="./data/slide_3.md" 
+					data-separator="^\n\n\n" 
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+				 	data-charset="iso-8859-15"
+					data-background-color="rgb(36, 161, 193)"
+				></section>
+				<section 
+					data-markdown="./data/slide_2.1.md" 
+					data-separator="^\n\n\n" 
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+				 	data-charset="iso-8859-15"
+				></section>
+				<section 
+					data-markdown="./data/slide_2.2.md" 
+					data-separator="^\n\n\n" 
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+				 	data-charset="iso-8859-15"
+					data-background-color="rgb(36, 161, 193)"
+				></section>
+				<section 
+					data-markdown="./data/slide_end.md" 
+					data-separator="^\n\n\n" 
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+				 	data-charset="iso-8859-15"
+				></section>
+			</div>
+		</div>
+
+		<script src="custom-reveal.js/dist/reveal.js"></script>
+		<script src="custom-reveal.js/plugin/notes/notes.js"></script>
+		<script src="custom-reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="custom-reveal.js/plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>

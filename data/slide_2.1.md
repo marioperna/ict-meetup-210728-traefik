@@ -1,0 +1,10 @@
+
+# Use dynamic.yaml
+```yml
+## Setting up the middleware for redirect to https ##
+http:
+  middlewares:
+    redirect:
+      redirectScheme:
+        scheme: https
+```

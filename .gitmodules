@@ -1,0 +1,3 @@
+[submodule "custom-reveal.js"]
+	path = custom-reveal.js
+	url = https://github.com/marioperna/custom-reveal.js.git
