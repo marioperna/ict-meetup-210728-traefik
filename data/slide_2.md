@@ -3,7 +3,6 @@
 Traefik is a modern HTTP reverse *proxy* and *load balancer* that makes deploying microservices easy. 
 Traefik configures itself automatically and dynamically.
 
-
 # System Integration
 * Docker, 
 * Swarm mode, 
@@ -11,7 +10,5 @@ Traefik configures itself automatically and dynamically.
 * Amazon ECS
 * ... 
 
-
-# Traefik Architecture
-<img src="../assets/img/traefik-architecture.png">
-
+# Here comes traefik
+<img src="./img/traefik-architecture.png">
