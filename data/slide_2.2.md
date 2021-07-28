@@ -1,6 +1,6 @@
 
 # Deploy a wordpress 
-```yml [1]
+```yml [17-20 | 24-26]
 version: '3.7'
 
 services:
