@@ -1,20 +1,20 @@
 # Traefik core concepts
-<img src="./img/traefik-architecture.png">
+<img src="data/img/traefik-architecture.png">
 
 # Remember The Diagram?
-<img src="./img/traefik-architecture.png">
+<img src="data/img/traefik-architecture.png">
 
 # Let’s Simplify
-<img src="./img/architecture-simplified.png">
+<img src="data/img/architecture-simplified.png">
 
 # Providers
-<img src="./img/architecture-at-a-glance-provider.png">
+<img src="data/img/architecture-at-a-glance-provider.png">
 
 # Architecture at a glance entrypoints
-<img src="./img/architecture-at-a-glance-entrypoints.png">
+<img src="data/img/architecture-at-a-glance-entrypoints.png">
 
 # Architecture at a glance frontends
-<img src="./img/architecture-at-a-glance-frontends.png">
+<img src="data/img/architecture-at-a-glance-frontends.png">
 
 # Architecture at a glance backends
-<img src="./img/architecture-at-a-glance-backends.png">
+<img src="data/img/architecture-at-a-glance-backends.png">

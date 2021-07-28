@@ -11,4 +11,4 @@ Traefik configures itself automatically and dynamically.
 * ... 
 
 # Here comes traefik
-<img src="./img/traefik-architecture.png">
+<img src="data/img/traefik-architecture.png">

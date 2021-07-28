@@ -1,6 +1,6 @@
 # Traefik
 ## Keep The Routing Simple
 
-<img src="./img/traefik_logo.png" width="300" height="350">
+<img src="data/img/traefik_logo.png" width="300" height="350">
 
 <!-- link -->
